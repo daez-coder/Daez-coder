@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Daez 👋
 
-<!--
-**daez-coder/Daez-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PHP Developer | PrestaShop | E-commerce Development
 
-Here are some ideas to get you started:
+I'm a web developer interested in building e-commerce solutions and reliable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving technical problems, learning new technologies, and improving my development skills.
+
+### 🛠️ Tech Stack
+
+**Backend**
+- PHP
+- Object-Oriented Programming (OOP)
+- Laravel
+- MySQL
+
+**E-commerce**
+- PrestaShop
+- Smarty
+
+**Frontend**
+- HTML
+- CSS / SCSS
+- JavaScript
+
+**Tools**
+- Git / GitLab
+- Linux
+- Laragon
+
+### 🌱 Currently Learning
+
+- Improving my PHP and Laravel skills
+- Building personal development projects
+- Exploring API development and modern web technologies
+
+### 🎯 Goals
+
+- Become a stronger backend and e-commerce developer
+- Work with international clients and companies
+- Develop my own digital products and business ideas
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/daez-coder
