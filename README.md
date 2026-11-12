@@ -2,16 +2,15 @@
 
 ### PHP Developer | PrestaShop | E-commerce Development
 
-I'm a web developer interested in building e-commerce solutions and reliable web applications.
+I'm a web developer focused on PHP development and e-commerce solutions, especially with PrestaShop.
 
-I enjoy solving technical problems, learning new technologies, and improving my development skills.
+I enjoy building useful web features, solving technical problems, and continuously improving my development skills.
 
 ### 🛠️ Tech Stack
 
 **Backend**
 - PHP
 - Object-Oriented Programming (OOP)
-- Laravel
 - MySQL
 
 **E-commerce**
@@ -29,17 +28,19 @@ I enjoy solving technical problems, learning new technologies, and improving my 
 - Laragon
 
 ### 🌱 Currently Learning
+- Advanced PHP and OOP
+- Laravel
+- PrestaShop module development
+- API development
+- Software architecture and best practices
 
-- Improving my PHP and Laravel skills
-- Building personal development projects
-- Exploring API development and modern web technologies
+### 🚀 Projects
+I'm working on personal projects to improve my development skills and build practical solutions.
+
+More projects coming soon!
 
 ### 🎯 Goals
-
-- Become a stronger backend and e-commerce developer
-- Work with international clients and companies
-- Develop my own digital products and business ideas
-
-### 📫 Connect with me
-
-- GitHub: https://github.com/daez-coder
+- Become a skilled backend and e-commerce developer
+- Build reliable and maintainable web applications
+- Develop useful digital products and business ideas
+- Collaborate on interesting development projects
